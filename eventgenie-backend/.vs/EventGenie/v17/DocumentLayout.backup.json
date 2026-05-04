@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\c#\\EventGenie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\repositorys\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\repositorys\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\repositorys\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\repositorys\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\helpers\\turkeygeohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\helpers\\turkeygeohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\services\\ticketmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\services\\ticketmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\services\\chatgptservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\services\\chatgptservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\repositorys\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\repositorys\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|c:\\users\\monster\\c#\\eventgenie\\eventgenie\\repositorys\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E06354-0B1A-4DC5-ADBD-9F1E4128D213}|EventGenie\\EventGenie.csproj|solutionrelative:eventgenie\\repositorys\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\TripRepository.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Repositorys\\TripRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\TripRepository.cs",
+              "RelativeToolTip": "EventGenie\\Repositorys\\TripRepository.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:57:36.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurkeyGeoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Helpers\\TurkeyGeoHelper.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Helpers\\TurkeyGeoHelper.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Helpers\\TurkeyGeoHelper.cs",
+              "RelativeToolTip": "EventGenie\\Helpers\\TurkeyGeoHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T20:18:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketmasterService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Services\\TicketmasterService.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Services\\TicketmasterService.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Services\\TicketmasterService.cs",
+              "RelativeToolTip": "EventGenie\\Services\\TicketmasterService.cs",
+              "ViewState": "AgIAAAUDAAAAAAAAAAAQwBIDAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:18:59.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Services\\LocationService.cs",
+              "RelativeToolTip": "EventGenie\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:18:37.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatgptServices.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Services\\ChatgptServices.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Services\\ChatgptServices.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Services\\ChatgptServices.cs",
+              "RelativeToolTip": "EventGenie\\Services\\ChatgptServices.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:17:49.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Repositorys\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\LocationRepository.cs",
+              "RelativeToolTip": "EventGenie\\Repositorys\\LocationRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:28:42.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\EventRepository.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Repositorys\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\EventRepository.cs",
+              "RelativeToolTip": "EventGenie\\Repositorys\\EventRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:28:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "EventGenie\\Repositorys\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\c#\\EventGenie\\EventGenie\\Repositorys\\ChatRepository.cs",
+              "RelativeToolTip": "EventGenie\\Repositorys\\ChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:28:42.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
